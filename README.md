@@ -1,11 +1,3 @@
----
-layout: post
-title: "IP Geo-Heatmap with Python"
-date: 2021-01-19 19:41:30 -0800
-categories: python networking heatmap
-
----
-
 ## Overview
 
 A lot of different things can be readily prototyped and done with Python, particularly because of the massive communities behind all of it's packages.
