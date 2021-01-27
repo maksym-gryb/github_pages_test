@@ -47,7 +47,7 @@ pip install folium flask ...
 
 Maybe you work in a field where it is possible for you to harvest a large amount of valid IP addresses and create this heat map from real data. I was looking into some malware samples, but I still couldn't find a satisfyingly large enough list of IP addresses to make this map interesting looking.
 
-So I had to generate a bunch of my own fake addresses, so the following script will do that for you. Alternatively you can download a list of IP addresses I already generated from [here]({{ site.baseurl }}{% link /assets/iplist.txt %}).
+So I had to generate a bunch of my own fake addresses, so the following script will do that for you. Alternatively you can download a list of IP addresses I already generated from...
 
 ```python
 import random
